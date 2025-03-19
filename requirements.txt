@@ -1,0 +1,10 @@
+opencv-python==4.7.0.68
+scikit-learn==1.2.2
+joblib==1.2.0
+numpy==1.26.0
+torch==1.13.1
+facenet-pytorch==2.5.2
+tqdm
+streamlit
+pyngrok
+Pillow
